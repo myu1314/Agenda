@@ -17,4 +17,4 @@
 - [ ] Find old raspberry pi
 
 
-$\binom{n}{k} = \frac{n!}{k!(n-k)!}$
+
