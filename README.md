@@ -14,7 +14,11 @@
 - [x] Complete 4 programming projects from Absolute Java
 - [x] Constantly make git commits and upload your work to the cloud.
 
-- [ ] Find old raspberry pi
+- [x] Find old Raspberry Pi
+      
+- [ ] Create one program for math
+- [ ] Create one program from physics
+- [ ] Read an hour of Absolute Java chapter 2
 
 
 
