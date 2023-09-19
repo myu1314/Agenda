@@ -16,9 +16,11 @@
 
 - [x] Find old Raspberry Pi
       
-- [ ] Create one program for math
-- [ ] Create one program from physics
-- [ ] Read an hour of Absolute Java chapter 2
+- [x] Create one program for math
+- [x] Create one program from physics
+- [x] Read an hour of Absolute Java chapter 2
+
+- [ ] Do 3 programming projects 
 
 
 
