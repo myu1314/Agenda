@@ -20,7 +20,7 @@
 - [x] Create one program from physics
 - [x] Read an hour of Absolute Java chapter 2
 
-- [ ] Do 3 programming projects 
+- [x] Do 3 programming projects 
 
 
 
