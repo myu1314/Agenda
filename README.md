@@ -22,8 +22,8 @@
 
 - [x] Do 3 programming projects 
 
-- [ ] https://www.youtube.com/watch?v=QQBbrq12SWI
-- [ ] Wipe OS and add ubuntu
-- [ ] Do 2 Programming projects in Chapter 3
+- [ ] ~~https://www.youtube.com/watch?v=QQBbrq12SWI~~
+- [ ] Use Rasbian to make a bootable SD of Ubuntu
+- [x] Do 2 Programming projects in Chapter 3
 
 
