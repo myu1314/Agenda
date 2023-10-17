@@ -24,6 +24,7 @@
 
 - [ ] ~~https://www.youtube.com/watch?v=QQBbrq12SWI~~
 - [ ] Use Rasbian to make a bootable SD of Ubuntu
+- [ ] Keep streak going
 - [x] Do 2 Programming projects in Chapter 3
 
 
